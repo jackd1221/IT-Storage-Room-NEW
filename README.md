@@ -1,0 +1,1 @@
+This is a basic HTML website with CSS used as a check in/out system for our IT department's storage room. It will automatically add or subtract the item you are checking in or out to the Google Sheet that it is linked too. This web app is connected to a Google Sheet web app script to make this possible.
