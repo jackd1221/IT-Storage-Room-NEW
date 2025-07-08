@@ -3,7 +3,8 @@ This is a basic HTML website with CSS used as a check in/out system for our IT d
 
 
 WIP:
-1. AV Inventory
-2. Multiple Item Check In/Out
-3. Google SSO/Security Sign in
-4. Improved UI/UX
+1. Setup test branch
+2. AV Inventory
+3. Multiple Item Check In/Out
+4. Google SSO/Security Sign in
+5. Improved UI/UX/Performance
